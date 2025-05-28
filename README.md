@@ -6,3 +6,10 @@ creación de mi primer repositorio
 *   subitem
 *     choclo
 *     azucar
+*     otro tab
+*     lalalal
+
+SIN TABS
+
+$$universidad_{UDD} + mayo = casi_termina_semestre$$
+
